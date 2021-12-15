@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "61aa067bc85b2fce4ef9ca6b"
+  },
+  "name": "Pepito Pérez",
+  "age": 56,
+  "genre": "Hombre",
+  "weigth": 56,
+  "heigth": 56,
+  "hairColor": "Rubio",
+  "eyeColor": "Verdes",
+  "race": "Caucásico",
+  "isRequired": true,
+  "nationality": "Español",
+  "oscarsNumber": 2,
+  "profession": [
+    "Actor",
+    "Director",
+    "Guionista"
+  ],
+  "__v": 0
+}]

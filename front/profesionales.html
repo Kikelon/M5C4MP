@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="es">
+    
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        <script src = profesionales.js></script>
+        <link rel="stylesheet" href="./profesionales.css">
+        <title>Miniproyecto MongoDB - Profesionales</title>
+</head>
+<body>
+    <div class="container-sm">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <a class="navbar-brand">Miniproyecto MongoDB</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+                    aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-link active" aria-current="page" href="profesionales.html">Profesionales</a>
+                        <a class="nav-link" href="peliculas.html">Películas</a>
+                    </div>
+                </div>
+            </div>
+    </div>
+    </nav>
+    <form class="container-sm" id="formularioProfessional">
+        <div class="form-floating mb-3">
+            <input type="text" class="form-control" id="idInput" placeholder="Id">
+            <label for="idInput">Id</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="text" class="form-control" id="nameInput" placeholder="Nombre" required>
+            <label for="floatingInput">Nombre</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="number" class="form-control" id="ageInput" placeholder="Edad" required>
+            <label for="floatingInput">Edad</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="text" class="form-control" id="genreInput" placeholder="Género" required>
+            <label for="floatingInput">Género</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="number" class="form-control" id="weigthInput" placeholder="Peso" required>
+            <label for="floatingInput">Peso</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="number" class="form-control" id="heigthInput" step=".01" placeholder="Altura" required>
+            <label for="floatingInput">Altura</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="text" class="form-control" id="hairColorInput" placeholder="Color de pelo" required>
+            <label for="floatingInput">Color de pelo</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="text" class="form-control" id="eyeColorInput" placeholder="Color de ojos" required>
+            <label for="floatingInput">Color de ojos</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="text" class="form-control" id="raceInput" placeholder="Raza" required>
+            <label for="floatingInput">Raza</label>
+        </div>
+        <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="isRequiredCheck" onclick="this.blur()">
+            <label class="form-check-label" for="isRequiredCheck">Requerido</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="text" class="form-control" id="nationalityInput" placeholder="Nacionalidad" required>
+            <label for="floatingInput">Nacionalidad</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="number" class="form-control" id="oscarsNumberInput" placeholder="Oscars concedidos" required>
+            <label for="floatingInput">Oscars concedidos</label>
+        </div>
+        <div class="mb-3 form-check">
+            <div class="row g-sm-5">
+                <div class="col-sm">
+                    <h5>Profesion:</h5>
+                </div>
+                <div class="col-sm" is="profession">
+                    <input type="checkbox" class="form-check-input" id="actorCheck" onclick="this.blur()">
+                    <label class="form-check-label" for="actorCheck">Actor</label>
+                </div>
+                <div class="col-sm">
+                    <input type="checkbox" class="form-check-input" id="directorCheck" onclick="this.blur()">
+                    <label class="form-check-label" for="directorCheck">Director</label>
+                </div>
+                <div class="col-sm">
+                    <input type="checkbox" class="form-check-input" id="guionistaCheck" onclick="this.blur()">
+                    <label class="form-check-label" for="guionistaCheck">Guionista</label>
+                </div>
+                <div class="col-sm">
+                    <input type="checkbox" class="form-check-input" id="productorCheck" onclick="this.blur()">
+                    <label class="form-check-label" for="productorCheck">Productor</label>
+                </div>
+                <div class="col-sm">
+                    <input type="checkbox" class="form-check-input" id="otroCheck" onclick="this.blur()">
+                    <label class="form-check-label" for="otroCheck">Otro</label>
+                </div>
+            </div>
+        </div>
+        <div class="mb-sm-5">
+            <button type="button" class="btn btn-primary" onclick="this.blur(); getProfessional()">Mostrar</button>
+            <button type="button" class="btn btn-success" onclick="this.blur(); postProfessional()">Crear</button>
+            <button type="button" class="btn btn-secondary" onclick="this.blur(); putProfessional()">Actualizar</button>
+            <button type="button" class="btn btn-danger" onclick="this.blur(); deleteProfessional()">Eliminar</button>
+            <button type="reset" class="btn btn-danger" onclick="this.blur()">Limpiar formulario</button>
+        </div>
+    </form>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+</body>
+</html>

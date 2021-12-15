@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "61a8002266ff15439ba07886"
+  },
+  "title": "The Matrix",
+  "releaseYear": 19999,
+  "actors": [
+    "61a7fa9566ff15439ba07866",
+    "61a7fa9566ff15439ba07867",
+    "61a7fa9566ff15439ba07868"
+  ],
+  "nacionality": "Estados Unidos",
+  "directors": [
+    "61a7fa9566ff15439ba07869",
+    "61a7fa9566ff15439ba0786a"
+  ],
+  "writers": [
+    "61a7fa9566ff15439ba07869",
+    "61a7fa9566ff15439ba0786a"
+  ],
+  "language": "Inglés",
+  "isMCU": false,
+  "mainCharacterName": "Neo",
+  "producer": "Joel Silver",
+  "distributor": "Warner Bros. Pictures",
+  "genre": "Acción"
+},{
+  "_id": {
+    "$oid": "61a8021466ff15439ba07890"
+  },
+  "title": "El silencio de la ciudad blanca",
+  "releaseYear": 2019,
+  "actors": [
+    "61a7fa9566ff15439ba0786c",
+    "61a7fa9566ff15439ba0786d",
+    "61a7fa9566ff15439ba0786e"
+  ],
+  "nacionality": "Española",
+  "directors": [
+    "61a7fa9566ff15439ba0786f"
+  ],
+  "writers": [
+    "61a7fa9566ff15439ba07870",
+    "61a7fa9566ff15439ba07871"
+  ],
+  "language": "Español",
+  "isMCU": false,
+  "mainCharacterName": "Unai López Ayala",
+  "producer": "Atresmedia Cine",
+  "distributor": "DeAPlaneta",
+  "genre": "Drama"
+},{
+  "_id": {
+    "$oid": "61a8021466ff15439ba07891"
+  },
+  "title": "Padre no hay más que uno",
+  "releaseYear": 2019,
+  "actors": [
+    "61a7fa9566ff15439ba07872",
+    "61a7fa9566ff15439ba07873",
+    "61a7fa9566ff15439ba07874"
+  ],
+  "nacionality": "Española",
+  "directors": [
+    "61a7fa9566ff15439ba07872"
+  ],
+  "writers": [
+    "61a7fa9566ff15439ba07875",
+    "61a7fa9566ff15439ba07872"
+  ],
+  "language": "Español",
+  "isMCU": false,
+  "mainCharacterName": "Javier García",
+  "producer": "Atresmedia Cine",
+  "distributor": "Sony Pictures España",
+  "genre": "Comedia"
+},{
+  "_id": {
+    "$oid": "61a8021466ff15439ba07892"
+  },
+  "title": "El reino",
+  "releaseYear": 2018,
+  "actors": [
+    "61a7fa9566ff15439ba07876",
+    "61a7fa9566ff15439ba07877",
+    "61a7fa9566ff15439ba07878"
+  ],
+  "nacionality": "Española",
+  "directors": [
+    "61a7fa9566ff15439ba07879"
+  ],
+  "writers": [
+    "61a7fa9566ff15439ba07879",
+    "61a7fa9566ff15439ba0787a"
+  ],
+  "language": "Español",
+  "isMCU": false,
+  "mainCharacterName": "Manuel López-Vidal",
+  "producer": "Atresmedia Cine",
+  "distributor": "Warner Bros Pictures",
+  "genre": "Thriller"
+},{
+  "_id": {
+    "$oid": "61a8021466ff15439ba07893"
+  },
+  "title": "Iron Man",
+  "releaseYear": 2008,
+  "actors": [
+    "61a7fa9566ff15439ba0787b",
+    "61a7fa9566ff15439ba0787c",
+    "61a7fa9566ff15439ba0787d"
+  ],
+  "nacionality": "Americana",
+  "directors": [
+    "61a7fa9566ff15439ba0787e"
+  ],
+  "writers": [
+    "61a7fa9566ff15439ba0787f",
+    "61a7fa9566ff15439ba07880",
+    "61a7fa9566ff15439ba07881",
+    "61a7fa9566ff15439ba07882"
+  ],
+  "language": "Inglés",
+  "isMCU": true,
+  "mainCharacterName": "Anthony Edward Stark",
+  "producer": "Marvel Studios",
+  "distributor": "Paramount Pictures",
+  "genre": "Acción"
+}]

@@ -1,0 +1,27 @@
+[{
+    "_id": {
+        "$oid": "61aa32ca4ad7b909b18e0ef6"
+    },
+  "title": "The Matrix Reloaded",
+  "releaseYear": 2003,
+  "actors": [
+    "61a7fa9566ff15439ba07866",
+    "61a7fa9566ff15439ba07867",
+    "61a7fa9566ff15439ba07868"
+  ],
+  "nacionality": "Estados Unidos",
+  "directors": [
+    "61a7fa9566ff15439ba07869",
+    "61a7fa9566ff15439ba0786a"
+  ],
+  "writers": [
+    "61a7fa9566ff15439ba07869",
+    "61a7fa9566ff15439ba0786a"
+  ],
+  "language": "Inglés",
+  "isMCU": false,
+  "mainCharacterName": "Neo",
+  "producer": "Joel Silver",
+  "distributor": "Warner Bros. Pictures",
+  "genre": "Acción"    
+}]

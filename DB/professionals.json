@@ -1,0 +1,551 @@
+[{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07866"
+  },
+  "name": "Keanu Reeves",
+  "age": 57,
+  "genre": "Hombre",
+  "weigth": 69,
+  "heigth": 1.79,
+  "hairColor": "Negro",
+  "eyeColor": "negro",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Canadiense",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor",
+    "Director",
+    "Productor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07867"
+  },
+  "name": "Carrie-Anne Moss",
+  "age": 54,
+  "genre": "Mujer",
+  "weigth": 57,
+  "heigth": 1.73,
+  "hairColor": "Negro",
+  "eyeColor": "Azul",
+  "race": "Caucásica",
+  "isRequired": false,
+  "nationality": "Canadiense",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07868"
+  },
+  "name": "Laurence Fishburne",
+  "age": 60,
+  "genre": "Hombre",
+  "weigth": 75,
+  "heigth": 1.72,
+  "hairColor": "Calvo",
+  "eyeColor": "Negro",
+  "race": "Afroamericano",
+  "isRequired": false,
+  "nationality": "Estadounidense",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor",
+    "Director",
+    "Productor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07869"
+  },
+  "name": "Lana Wachowski",
+  "age": 56,
+  "genre": "Mujer transgénero",
+  "weigth": 65,
+  "heigth": 1.74,
+  "hairColor": "Rosa",
+  "eyeColor": "Verde",
+  "race": "Caucásica",
+  "isRequired": false,
+  "nationality": "Estadounidense",
+  "oscarsNumber": 0,
+  "profession": [
+    "Director",
+    "Guionista",
+    "Productor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba0786a"
+  },
+  "name": "Lilly Wachowski",
+  "age": 53,
+  "genre": "Mujer transgénero",
+  "weigth": 57,
+  "heigth": 1.68,
+  "hairColor": "Negro",
+  "eyeColor": "Marrón",
+  "race": "Caucásica",
+  "isRequired": false,
+  "nationality": "Estadounidense",
+  "oscarsNumber": 0,
+  "profession": [
+    "Director",
+    "Guionista",
+    "Productor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba0786b"
+  },
+  "name": "Joel Silver",
+  "age": 69,
+  "genre": "Hombre",
+  "weigth": 95,
+  "heigth": 1.7,
+  "hairColor": "Negro",
+  "eyeColor": "negro",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Estadounidense",
+  "oscarsNumber": 0,
+  "profession": [
+    "Productor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba0786c"
+  },
+  "name": "Belén Rueda",
+  "age": 56,
+  "genre": "Mujer",
+  "weigth": 54,
+  "heigth": 1.74,
+  "hairColor": "Rubio",
+  "eyeColor": "Verdes",
+  "race": "Caucásica",
+  "isRequired": false,
+  "nationality": "Española",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba0786d"
+  },
+  "name": "Javier Rey",
+  "age": 41,
+  "genre": "Hombre",
+  "weigth": 70,
+  "heigth": 1.87,
+  "hairColor": "Negro",
+  "eyeColor": "Negro",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Español",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba0786e"
+  },
+  "name": "Aura Garrido",
+  "age": 32,
+  "genre": "Mujer",
+  "weigth": 48,
+  "heigth": 1.72,
+  "hairColor": "Rubio",
+  "eyeColor": "Verdes",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Español",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba0786f"
+  },
+  "name": "Daniel Calparsoro",
+  "age": 53,
+  "genre": "Hombre",
+  "weigth": 75,
+  "heigth": 1.62,
+  "hairColor": "Negro",
+  "eyeColor": "Negro",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Español",
+  "oscarsNumber": 0,
+  "profession": [
+    "Director",
+    "Guionista",
+    "Productor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07870"
+  },
+  "name": "Alfred Pérez Fargas",
+  "age": 45,
+  "genre": "Hombre",
+  "weigth": 67,
+  "heigth": 1.7,
+  "hairColor": "Calvo",
+  "eyeColor": "Negro",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Español",
+  "oscarsNumber": 0,
+  "profession": [
+    "Guionista"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07871"
+  },
+  "name": "Roger Danès",
+  "age": 45,
+  "genre": "Hombre",
+  "weigth": 67,
+  "heigth": 1.7,
+  "hairColor": "Calvo",
+  "eyeColor": "Negro",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Español",
+  "oscarsNumber": 0,
+  "profession": [
+    "Guionista"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07872"
+  },
+  "name": "Santiago Segura",
+  "age": 56,
+  "genre": "Hombre",
+  "weigth": 67,
+  "heigth": 1.7,
+  "hairColor": "Calvo",
+  "eyeColor": "Negro",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Español",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor",
+    "Director",
+    "Guionista",
+    "Productor",
+    "Otro"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07873"
+  },
+  "name": "Toni Acosta",
+  "age": 49,
+  "genre": "Mujer",
+  "weigth": 54,
+  "heigth": 1.7,
+  "hairColor": "Negro",
+  "eyeColor": "Negro",
+  "race": "Caucásica",
+  "isRequired": false,
+  "nationality": "Española",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07874"
+  },
+  "name": "Silvia Abril",
+  "age": 50,
+  "genre": "Mujer",
+  "weigth": 56,
+  "heigth": 1.62,
+  "hairColor": "Negro",
+  "eyeColor": "Negro",
+  "race": "Caucásica",
+  "isRequired": false,
+  "nationality": "Española",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07875"
+  },
+  "name": "Marta González de Vega",
+  "age": 43,
+  "genre": "Mujer",
+  "weigth": 54,
+  "heigth": 1.7,
+  "hairColor": "Negro",
+  "eyeColor": "Negro",
+  "race": "Caucásica",
+  "isRequired": false,
+  "nationality": "Española",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07876"
+  },
+  "name": "Antonio de la Torre",
+  "age": 53,
+  "genre": "Hombre",
+  "weigth": 70,
+  "heigth": 1.87,
+  "hairColor": "Negro",
+  "eyeColor": "Negro",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Español",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07877"
+  },
+  "name": "Josep María Pou",
+  "age": 77,
+  "genre": "Hombre",
+  "weigth": 73,
+  "heigth": 1.77,
+  "hairColor": "Calvo",
+  "eyeColor": "Negro",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Español",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07878"
+  },
+  "name": "Bárbara Lennie",
+  "age": 37,
+  "genre": "Mujer",
+  "weigth": 54,
+  "heigth": 1.7,
+  "hairColor": "Negro",
+  "eyeColor": "Negro",
+  "race": "Caucásica",
+  "isRequired": false,
+  "nationality": "Española",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07879"
+  },
+  "name": "Rodrigo Sorogoyen",
+  "age": 40,
+  "genre": "Hombre",
+  "weigth": 70,
+  "heigth": 1.87,
+  "hairColor": "Negro",
+  "eyeColor": "Negro",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Español",
+  "oscarsNumber": 0,
+  "profession": [
+    "Director",
+    "Guionista"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba0787a"
+  },
+  "name": "Isabel Peña",
+  "age": 38,
+  "genre": "Mujer",
+  "weigth": 54,
+  "heigth": 1.7,
+  "hairColor": "Negro",
+  "eyeColor": "Negro",
+  "race": "Caucásica",
+  "isRequired": false,
+  "nationality": "Española",
+  "oscarsNumber": 0,
+  "profession": [
+    "Guionista"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba0787b"
+  },
+  "name": "Robert Downey Jr.",
+  "age": 56,
+  "genre": "Hombre",
+  "weigth": 69,
+  "heigth": 1.79,
+  "hairColor": "Marrón",
+  "eyeColor": "negro",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Estadounidense",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor",
+    "Director",
+    "Productor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba0787c"
+  },
+  "name": "Terrence Howard",
+  "age": 52,
+  "genre": "Hombre",
+  "weigth": 65,
+  "heigth": 1.6,
+  "hairColor": "Calvo",
+  "eyeColor": "Negro",
+  "race": "Afroamericano",
+  "isRequired": false,
+  "nationality": "Estadounidense",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor",
+    "Director",
+    "Productor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba0787d"
+  },
+  "name": "Gwyneth Paltrow",
+  "age": 49,
+  "genre": "Mujer",
+  "weigth": 54,
+  "heigth": 1.75,
+  "hairColor": "Rubio",
+  "eyeColor": "Azul",
+  "race": "Caucásica",
+  "isRequired": false,
+  "nationality": "Estadounidense",
+  "oscarsNumber": 1,
+  "profession": [
+    "Actor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba0787e"
+  },
+  "name": "Jon Favreau",
+  "age": 55,
+  "genre": "Hombre",
+  "weigth": 67,
+  "heigth": 1.7,
+  "hairColor": "Negro",
+  "eyeColor": "Negro",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Estadounidense",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor",
+    "Director",
+    "Guionista",
+    "Productor",
+    "Otro"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba0787f"
+  },
+  "name": "Mark Fergus",
+  "age": 43,
+  "genre": "Hombre",
+  "weigth": 67,
+  "heigth": 1.73,
+  "hairColor": "Marrón",
+  "eyeColor": "Verde",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Estadounidense",
+  "oscarsNumber": 0,
+  "profession": [
+    "Guionista"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07880"
+  },
+  "name": "Hawk Ostby",
+  "age": 55,
+  "genre": "Hombre",
+  "weigth": 74,
+  "heigth": 1.83,
+  "hairColor": "Negro",
+  "eyeColor": "Negro",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Indio",
+  "oscarsNumber": 0,
+  "profession": [
+    "Guionista"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07881"
+  },
+  "name": "Arthur Marcum",
+  "age": 43,
+  "genre": "Hombre",
+  "weigth": 67,
+  "heigth": 1.73,
+  "hairColor": "Marrón",
+  "eyeColor": "Verde",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Estadounidense",
+  "oscarsNumber": 0,
+  "profession": [
+    "Guionista",
+    "Productor"
+  ]
+},{
+  "_id": {
+    "$oid": "61a7fa9566ff15439ba07882"
+  },
+  "name": "Matt Holloway",
+  "age": 43,
+  "genre": "Hombre",
+  "weigth": 67,
+  "heigth": 1.73,
+  "hairColor": "Calvo",
+  "eyeColor": "Verde",
+  "race": "Caucásico",
+  "isRequired": false,
+  "nationality": "Estadounidense",
+  "oscarsNumber": 0,
+  "profession": [
+    "Actor",
+    "Director",
+    "Guionista",
+    "Productor",
+    "Otro"
+  ]
+}]
